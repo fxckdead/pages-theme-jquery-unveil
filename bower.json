@@ -1,0 +1,16 @@
+{
+  "name": "pages_theme_jquery_unveil",
+  "version": "0.0.0",
+  "authors": [
+    "Christian <christian.parrita@gmail.com>"
+  ],
+  "main": "jquery.unveil.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
